@@ -4,6 +4,13 @@ En esta image se puede visualizar, una interfaz de usuario limpia y funcional pa
 gestionar información del usuario, además de llevar un registro de su uso y permitir el cambio de modo de 
 visualización (claro/oscuro).]
 
+
+
+
+
+
+
+
 IMAGEN 02:
 ![image](https://github.com/user-attachments/assets/e246c0da-52e7-4757-a069-c62dad4fece4)
 Aqui se  puede visualizar que se  ha ingresado un dato "jhomber", el cual se ha guardado y luego se ha cargado

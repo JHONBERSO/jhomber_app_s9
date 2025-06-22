@@ -1,6 +1,6 @@
 ## IMAGEN 01:
 ![image](https://github.com/user-attachments/assets/3a5eca25-b4b8-4cb2-a01d-4aecb8361793)
-En esta image se puede visualizar, una interfaz de usuario limpia y funcional para diseñar, guardar, cargar y 
+## En esta image se puede visualizar, una interfaz de usuario limpia y funcional para diseñar, guardar, cargar y 
 gestionar información del usuario, además de llevar un registro de su uso y permitir el cambio de modo de 
 visualización (claro/oscuro).
 ---

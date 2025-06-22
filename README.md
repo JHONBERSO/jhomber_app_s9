@@ -16,7 +16,7 @@
 ---
 ## IMAGEN 05:
 ![image](https://github.com/user-attachments/assets/191c76a2-5328-437f-a71f-4265422946c3)
-## En esta imagen se  visualizar  que, al ingresar sus datos el usuario, le debe dar al boton guardar  para que  luego se cargue el perfil
+## En esta imagen se  visualizar  que, al ingresar sus datos el usuario, le debe dar al boton guardar  para que  luego se cargue el perfil, si no se presiona "guardar ", los datos no se mostraran al momento que le den cargar perfil.
 ---
 ## IMAGEN 06:
 ![image](https://github.com/user-attachments/assets/0b251200-2484-4d4c-966e-d76a48c19cf1)

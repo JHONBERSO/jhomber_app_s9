@@ -1,8 +1,8 @@
 IMAGEN 01:
-![En esta image se puede visualizar, una interfaz de usuario limpia y funcional para diseñar, guardar, cargar y 
+![image](https://github.com/user-attachments/assets/3a5eca25-b4b8-4cb2-a01d-4aecb8361793)
+En esta image se puede visualizar, una interfaz de usuario limpia y funcional para diseñar, guardar, cargar y 
 gestionar información del usuario, además de llevar un registro de su uso y permitir el cambio de modo de 
-visualización (claro/oscuro).](https://github.com/user-attachments/assets/3a5eca25-b4b8-4cb2-a01d-4aecb8361793)
-
+visualización (claro/oscuro).]
 
 IMAGEN 02:
 ![image](https://github.com/user-attachments/assets/e246c0da-52e7-4757-a069-c62dad4fece4)
